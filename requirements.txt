@@ -62,7 +62,7 @@ pyasn1-modules==0.2.8
 PyAudio==0.2.11
 pycparser==2.20
 pyfiglet==0.8.post1
-Pygments==2.6.1
+Pygments==2.7.4
 PyHamcrest==2.0.2
 PyInstaller==3.6
 pyjsparser==2.7.1
