@@ -4,7 +4,7 @@ asciimatics==1.11.0
 asgiref==3.2.7
 attrs==19.3.0
 auto-py-to-exe==2.6.6
-autobahn==20.4.3
+autobahn==20.12.3
 Automat==20.2.0
 backcall==0.1.0
 beautifulsoup4==4.9.0
