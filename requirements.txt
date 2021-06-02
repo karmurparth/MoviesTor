@@ -94,7 +94,7 @@ traitlets==4.3.3
 Twisted==20.3.0
 txaio==20.4.1
 tzlocal==2.0.0
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.18
 vlc-ctrl==1.0.8
 wcwidth==0.1.9
