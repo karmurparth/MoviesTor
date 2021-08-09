@@ -76,7 +76,7 @@ pytoml==0.1.21
 pyttsx3==2.87
 pytz==2019.3
 pywebview==3.2
-pywin32==225
+pywin32==301
 pywin32-ctypes==0.2.0
 redcmd==1.2.10
 redlib==1.5.7
