@@ -46,7 +46,7 @@ Js2Py==0.70
 -e git+https://github.com/heroku/kafka-helper@70aa539540e7d6517f0c3c1900617767ab198b6c#egg=kafka_helper
 lxml==4.5.0
 MarkupSafe==1.1.1
-numpy==1.18.3
+numpy==1.22.0
 pafy==0.5.5
 pandas==1.0.3
 parso==0.7.0
